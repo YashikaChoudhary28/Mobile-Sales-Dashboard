@@ -54,9 +54,10 @@ Enables interactive and customized analysis
 - Enhances strategic planning and forecasting
 - Reduces dependency on manual data analysis
 
-# Screenshots 
+# Screenshot
+<img width="833" height="469" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/45760117-eca9-4e1d-8a8f-920f2bd51c7a" />
 
-https://github.com/YashikaChoudhary28/Mobile-Sales-Dashboard/blob/main/Dashboard%20Screenshot.png
+
 
   
   
