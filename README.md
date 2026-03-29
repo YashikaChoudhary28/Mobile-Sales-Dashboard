@@ -12,7 +12,7 @@ The dashboard was built using the following tools and technologies:
 - file Format - .pbix for development and .png for dashboard previews.
 
 # Dataset Used
-
+<a href ='https://github.com/YashikaChoudhary28/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx'>Dataset</a>
 
 # 📊 Business Problem
 The mobile sales business lacks a centralized system to monitor performance across regions, products, and time periods. Decision-makers face difficulty in:
